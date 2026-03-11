@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - type == "Meeting"
+    order:
+      - file.name
+      - Date
+      - summary
+      - tags
+      - teams
+      - type
+    columnSize:
+      note.Date: 118
