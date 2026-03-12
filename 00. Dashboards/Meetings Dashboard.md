@@ -18,20 +18,11 @@ SORT file.day DESC
 ```
 
 # Meetings
-`button-create-new-meeting`
 
 ## Notes
 ![[Meetings Dashboard Meeting Notes.base]]
-
-```dataview
-TABLE date AS "Date", meetingType AS "Kind", summary AS "Summary", projects AS "Projects", teams AS "Teams"
-FROM "01. General/Meetings"
-WHERE type = "Meeting" AND meetingType != "standup"
-SORT date DESC
-LIMIT 5
-```
-
 ## Action Items
+
 ![[Action Items.base]]
 
 

@@ -1,10 +1,8 @@
 ---
 type: action item
-date:
-status: in progress
-due date: 2026-03-25T22:19:00
 priority: 0
-cover image:
+status:
+due date: 2026-03-18T22:46:00
 days remaining:
 days since created:
 ---

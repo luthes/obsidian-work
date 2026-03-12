@@ -8,23 +8,23 @@ views:
       and:
         - type == "action item"
         - file.folder == "zOther/Action Items"
+        - status != "done"
     order:
       - file.name
-      - type
-      - date
+      - priority
       - status
       - file.ctime
       - due date
-      - priority
-      - cover image
       - days remaining
       - days since created
       - formula.Untitled
-      - file.folder
     sort:
-      - property: due date
+      - property: priority
         direction: ASC
-    columnSize: {}
+      - property: due date
+        direction: DESC
+    columnSize:
+      note.priority: 74
   - type: cards
     name: Card
     filters:

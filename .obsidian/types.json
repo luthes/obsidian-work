@@ -26,6 +26,10 @@
     "TQ_show_tree": "checkbox",
     "TQ_show_urgency": "checkbox",
     "priority": "number",
-    "due date": "datetime"
+    "due date": "datetime",
+    "date": "datetime",
+    "projects": "multitext",
+    "summary": "text",
+    "teams": "multitext"
   }
 }

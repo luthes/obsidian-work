@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ef79570473b27345",
+        "id": "0a259f6b2042ba26",
         "type": "tabs",
         "children": [
           {
-            "id": "7e552f1eaa064c5f",
+            "id": "e9ce61874de5f203",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "zOther/Bases/Action Items.base",
-                "viewName": "Card"
+                "file": "00. Dashboards/Meetings Dashboard.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Action Items"
+              "icon": "lucide-file",
+              "title": "Meetings Dashboard"
             }
           }
         ]
@@ -32,7 +33,7 @@
       {
         "id": "f8c8750d400be2c1",
         "type": "tabs",
-        "dimension": 68.20809248554913,
+        "dimension": 80.71359691417551,
         "children": [
           {
             "id": "d0e6435e0244708a",
@@ -79,7 +80,7 @@
       {
         "id": "06dd018f12dadebd",
         "type": "tabs",
-        "dimension": 31.79190751445087,
+        "dimension": 19.286403085824492,
         "children": [
           {
             "id": "c615d184f3345c37",
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Meta/Requirements.md",
+                "file": "00. Dashboards/Meetings Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Requirements"
+              "title": "Backlinks for Meetings Dashboard"
             }
           },
           {
@@ -130,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Meta/Requirements.md",
+                "file": "00. Dashboards/Meetings Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Requirements"
+              "title": "Outgoing links from Meetings Dashboard"
             }
           },
           {
@@ -173,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zOther/Bases/Action Items.base",
+                "file": "00. Dashboards/Meetings Dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Action Items"
+              "title": "Outline of Meetings Dashboard"
             }
           },
           {
@@ -197,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 522.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,42 +216,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e552f1eaa064c5f",
+  "active": "e9ce61874de5f203",
   "lastOpenFiles": [
-    "zOther/Action Items/Untitled 5.md",
-    "zOther/Bases/Action Items.base",
-    "zOther/Action Items/Untitled 4.md",
-    "zOther/Action Items/Untitled 3.md",
-    "test card.md",
-    "zOther/Action Items/Untitled 2.md",
-    "zOther/Action Items/Untitled 1.md",
-    "zOther/Action Items/Untitled.md",
-    "zOther/Action Items/Test Base Action Item.md",
-    "Untitled 2.md",
-    "Untitled 3.base",
-    "Untitled 1.base",
+    "zOther/Action Items/Untitled 7.md",
+    "01. General/Meetings/Test meeting.md",
+    "zOther/Action Items/Untitled 6.md",
+    "01. General/Meetings/03.03.26 - Agentic Notes.md",
+    "99. Meta/Buttons/Meeting Buttons.md",
     "00. Dashboards/Meetings Dashboard.md",
-    "Untitled 1.md",
-    "zOther/Action Items",
+    "01. General/Meetings/03.11.2026 - Agentic World.md",
+    "01. General/Meetings/01.01.01 - Meetings.md",
+    "01. General/Meetings/2026-03-11 - Some Adhoc Meeting.md",
+    "01. General/Meetings/2026-03-11 - test.md",
+    "01. General/Meetings/2026-03-11.md",
+    "99. Meta/Templates/Meetings/Meeting Template.md",
+    "99. Meta/Requirements.md",
     "zOther/Templates/Meeting Template.md",
-    "99. Meta/Templates/Meetings/Standup Template.md",
-    "Untitled 2.base",
-    "99. Meta/Templates/Meetings/Standup Action Item.md",
-    "01. General/Standups/Standup - 2026-03-11.md",
-    "99. Meta/Templates/Meetings/Meeting Action Item Template.md",
-    "99. Meta/Templates/Meetings/Action Item Template.md",
+    "zOther/Images/Screenshot 2026-03-11 at 09.14.24.png",
+    "zOther/Images/Screenshot 2026-03-05 at 10.31.54.png",
+    "zOther/Images/Screenshot 2026-03-05 at 10.31.05.png",
+    "zOther/Images/Screenshot 2026-03-05 at 10.30.02.png",
+    "zOther/Images/Screenshot 2026-03-05 at 09.14.42.png",
     "zOther/Bases/Meetings Dashboard Meeting Notes.base",
     "zOther/Bases/Meetings Dashboard Meeting Notes 1.base",
+    "zOther/Bases/Action Items.base",
+    "zOther/Action Items/Untitled.md",
+    "zOther/Action Items/Untitled 5.md",
+    "zOther/Action Items/Untitled 4.md",
+    "zOther/Action Items/Untitled 3.md",
+    "zOther/Action Items/Untitled 2.md",
+    "zOther/Action Items/Untitled 1.md",
+    "zOther/Action Items/Test Base Action Item.md",
+    "zOther/Templates",
+    "zOther/Images",
     "zOther/Bases",
-    "99. Meta/Templates/Meetings/Meeting Template.md",
-    "Untitled.base",
-    "00. Dashboards",
-    "01. General/Meetings/03.11.2026 - Agentic World.md",
-    "01. General/Meetings/2026-03-11 - Some Adhoc Meeting.md",
-    "99. Meta/Buttons/Meeting Buttons.md",
+    "zOther/Action Items",
+    "zOther",
+    "test card.md",
+    "02. Projects/Platform V2/Platform V2 Design.md",
+    "02. Projects/Platform V2",
     "01. General/Meetings/03.10.26 - Work Assignments Sudeep.md",
     "01. General/Meetings/03.06.26 - Platform V2 Update.md",
-    "01. General/Meetings/03.03.26 - Agentic Notes.md",
-    "01. General/Meetings/01.01.01 - Meetings.md"
+    "01. General/Meetings/03.06.26 - OpenClaw Review.md",
+    "00. Dashboards"
   ]
 }
