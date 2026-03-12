@@ -13,3 +13,6 @@ tags:
 
 ## Action Items
 `button-meeting-action-item`
+
+## People
+`button-new-person`

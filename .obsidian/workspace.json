@@ -1,23 +1,20 @@
 {
   "main": {
-    "id": "d17c974760f34436",
+    "id": "33bbacda095975d0",
     "type": "split",
     "children": [
       {
-        "id": "0a259f6b2042ba26",
+        "id": "bbedc9282a1dc49d",
         "type": "tabs",
         "children": [
           {
-            "id": "e9ce61874de5f203",
+            "id": "31caea26ac17a844",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "zOther/Bases/Action Items.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Action Items"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -26,16 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "aecd898c8287046e",
+    "id": "76819025e22eee48",
     "type": "split",
     "children": [
       {
-        "id": "f8c8750d400be2c1",
+        "id": "feebe188a80c4b22",
         "type": "tabs",
-        "dimension": 80.71359691417551,
         "children": [
           {
-            "id": "d0e6435e0244708a",
+            "id": "864f6bc165ccc086",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "98213f7015196dd0",
+            "id": "98d4c7b4d5ba7f74",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "a05a7530d2c2bd3e",
+            "id": "48e29f7a6324d9bb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,43 +71,25 @@
             }
           }
         ]
-      },
-      {
-        "id": "06dd018f12dadebd",
-        "type": "tabs",
-        "dimension": 19.286403085824492,
-        "children": [
-          {
-            "id": "c615d184f3345c37",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 300
   },
   "right": {
-    "id": "33cc50eb5c42fa96",
+    "id": "e51e85405a86cc70",
     "type": "split",
     "children": [
       {
-        "id": "14c6e4efcd347b76",
+        "id": "23b623c0c1126e1f",
         "type": "tabs",
         "children": [
           {
-            "id": "8b1f7b96a5789c63",
+            "id": "3081c6eff7060292",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zOther/Bases/Action Items.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Action Items"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "ca286c69f3781ac5",
+            "id": "bdfb5cdd5fd17d38",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zOther/Bases/Action Items.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Action Items"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "177d521b56678c88",
+            "id": "cb19607e981b1ed4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -154,7 +131,7 @@
             }
           },
           {
-            "id": "2672044f3eaae99a",
+            "id": "1553a729399a1d56",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -168,36 +145,26 @@
             }
           },
           {
-            "id": "5f39fd707f20a64e",
+            "id": "0d76450c7ba43ff1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "zOther/Bases/Action Items.base",
+                "file": "00. Dashboards/Meetings Dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Action Items"
-            }
-          },
-          {
-            "id": "23654d3d6ef74dbe",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Meetings Dashboard"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 522.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,42 +174,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "bases:Create new base": false
     }
   },
-  "active": "e9ce61874de5f203",
+  "active": "864f6bc165ccc086",
   "lastOpenFiles": [
+    "Work Vault",
+    "99. Meta/Templates/Standups",
+    "99. Meta/Templates/People/People Template.md",
+    "99. Meta/Templates/People",
+    "99. Meta/Buttons/Buttons.md",
+    "01. General/People/Zach Schweinfurth.md",
+    "01. General/People/Steven.md",
+    "01. General/People/Rahul Raj.md",
+    "01. General/People/Megan Benton.md",
+    "01. General/People/Matt Olsen.md",
+    "01. General/People/Kranthi Kumar K.md",
+    "01. General/People/Anurag Mishra.md",
+    "01. General/People/Amit Sethi.md",
+    "01. General/People/Abhishek Tiwari.md",
     "01. General/People",
-    "zOther/Action Items/Untitled 8.md",
-    "zOther/Bases/Meetings.base",
-    "zOther/Bases/Meetings Dashboard Meeting Notes 1.base",
-    "99. Meta/Templates/Meetings/Meeting Action Item Template.md",
-    "00. Dashboards/Meetings Dashboard.md",
-    "zOther/Action Items/Untitled 7.md",
-    "01. General/Meetings/Test meeting.md",
-    "zOther/Action Items/Untitled 6.md",
-    "01. General/Meetings/03.03.26 - Agentic Notes.md",
-    "99. Meta/Buttons/Meeting Buttons.md",
-    "01. General/Meetings/03.11.2026 - Agentic World.md",
-    "01. General/Meetings/01.01.01 - Meetings.md",
-    "01. General/Meetings/2026-03-11 - Some Adhoc Meeting.md",
-    "01. General/Meetings/2026-03-11 - test.md",
-    "01. General/Meetings/2026-03-11.md",
-    "99. Meta/Templates/Meetings/Meeting Template.md",
-    "99. Meta/Requirements.md",
+    "01. General/Daily",
     "zOther/Templates/Meeting Template.md",
     "zOther/Images/Screenshot 2026-03-11 at 09.14.24.png",
     "zOther/Images/Screenshot 2026-03-05 at 10.31.54.png",
     "zOther/Images/Screenshot 2026-03-05 at 10.31.05.png",
     "zOther/Images/Screenshot 2026-03-05 at 10.30.02.png",
     "zOther/Images/Screenshot 2026-03-05 at 09.14.42.png",
+    "zOther/Bases/Meetings.base",
     "zOther/Bases/Action Items.base",
     "zOther/Action Items/Untitled.md",
+    "zOther/Action Items/Untitled 8.md",
+    "zOther/Action Items/Untitled 7.md",
+    "zOther/Action Items/Untitled 6.md",
     "zOther/Action Items/Untitled 5.md",
     "zOther/Action Items/Untitled 4.md",
     "zOther/Action Items/Untitled 3.md",
@@ -253,10 +217,8 @@
     "zOther/Images",
     "zOther/Bases",
     "zOther/Action Items",
-    "zOther",
     "test card.md",
-    "02. Projects/Platform V2/Platform V2 Design.md",
-    "02. Projects/Platform V2",
-    "00. Dashboards"
+    "99. Meta/Templates/Meetings/Standup Update Template.md",
+    "99. Meta/Templates/Meetings/Standup Template.md"
   ]
 }

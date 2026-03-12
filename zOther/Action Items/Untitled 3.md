@@ -8,4 +8,5 @@ cover image:
 days remaining:
 days since created:
 origin: standup
+assignee: steven
 ---
