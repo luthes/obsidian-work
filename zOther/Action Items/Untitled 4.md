@@ -7,4 +7,5 @@ priority: 1
 cover image:
 days remaining:
 days since created:
+origin: standup
 ---

@@ -14,8 +14,6 @@ views:
       - projects
       - tags
       - summary
-    sort:
-      - property: date
-        direction: DESC
+    sort: []
     limit: 5
     columnSize: {}

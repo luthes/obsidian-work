@@ -1,6 +1,9 @@
 formulas:
   days until due: ""
   Untitled: ""
+properties:
+  note.Source:
+    displayName: source
 views:
   - type: table
     name: Table
@@ -18,6 +21,9 @@ views:
       - days remaining
       - days since created
       - formula.Untitled
+      - origin
+      - Source
+      - assignee
     sort:
       - property: priority
         direction: ASC

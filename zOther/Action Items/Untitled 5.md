@@ -7,4 +7,5 @@ priority: 2
 cover image:
 days remaining:
 days since created:
+origin: meeting
 ---
