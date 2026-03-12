@@ -32,6 +32,8 @@ LIMIT 5
 ```
 
 ## Action Items
+![[Action Items.base]]
+
 
 ```dataview
 TASK

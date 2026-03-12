@@ -14,9 +14,9 @@
               "type": "bases",
               "state": {
                 "file": "zOther/Bases/Action Items.base",
-                "viewName": "Table"
+                "viewName": "Card"
               },
-              "icon": "lucide-table",
+              "icon": "lucide-layout-grid",
               "title": "Action Items"
             }
           }
@@ -173,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Meta/Requirements.md",
+                "file": "zOther/Bases/Action Items.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Requirements"
+              "title": "Outline of Action Items"
             }
           },
           {
@@ -217,8 +217,21 @@
   },
   "active": "7e552f1eaa064c5f",
   "lastOpenFiles": [
-    "Test Base Action Item.md",
+    "zOther/Action Items/Untitled 5.md",
     "zOther/Bases/Action Items.base",
+    "zOther/Action Items/Untitled 4.md",
+    "zOther/Action Items/Untitled 3.md",
+    "test card.md",
+    "zOther/Action Items/Untitled 2.md",
+    "zOther/Action Items/Untitled 1.md",
+    "zOther/Action Items/Untitled.md",
+    "zOther/Action Items/Test Base Action Item.md",
+    "Untitled 2.md",
+    "Untitled 3.base",
+    "Untitled 1.base",
+    "00. Dashboards/Meetings Dashboard.md",
+    "Untitled 1.md",
+    "zOther/Action Items",
     "zOther/Templates/Meeting Template.md",
     "99. Meta/Templates/Meetings/Standup Template.md",
     "Untitled 2.base",
@@ -229,9 +242,7 @@
     "zOther/Bases/Meetings Dashboard Meeting Notes.base",
     "zOther/Bases/Meetings Dashboard Meeting Notes 1.base",
     "zOther/Bases",
-    "00. Dashboards/Meetings Dashboard.md",
     "99. Meta/Templates/Meetings/Meeting Template.md",
-    "Untitled 1.base",
     "Untitled.base",
     "00. Dashboards",
     "01. General/Meetings/03.11.2026 - Agentic World.md",
@@ -240,17 +251,6 @@
     "01. General/Meetings/03.10.26 - Work Assignments Sudeep.md",
     "01. General/Meetings/03.06.26 - Platform V2 Update.md",
     "01. General/Meetings/03.03.26 - Agentic Notes.md",
-    "01. General/Meetings/01.01.01 - Meetings.md",
-    "01. General/Meetings/Untitled.md",
-    "02. Projects/Platform V2/Platform V2 Design.md",
-    "02. Projects/Agentic AI",
-    "02. Projects/Platform V2",
-    "99. Meta/Requirements.md",
-    "01. General/Meetings/2026-03-11 - Just a test meeting.md",
-    "01. General/Meetings/2026-03-11 - TestMeeting1.md",
-    "01.General/Meetings/2026-03-11.md",
-    "01. General/Meetings/Standups/Standup - 2026-03-11.md",
-    "Meetings/Standups/Standup - 2026-03-11.md",
-    "99. Meta/Templates/Meetings/Untitled 7.md"
+    "01. General/Meetings/01.01.01 - Meetings.md"
   ]
 }

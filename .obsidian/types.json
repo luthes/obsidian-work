@@ -26,6 +26,6 @@
     "TQ_show_tree": "checkbox",
     "TQ_show_urgency": "checkbox",
     "priority": "number",
-    "due date": "date"
+    "due date": "datetime"
   }
 }

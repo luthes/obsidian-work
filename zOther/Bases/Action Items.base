@@ -7,6 +7,7 @@ views:
     filters:
       and:
         - type == "action item"
+        - file.folder == "zOther/Action Items"
     order:
       - file.name
       - type
@@ -19,3 +20,34 @@ views:
       - days remaining
       - days since created
       - formula.Untitled
+      - file.folder
+    sort:
+      - property: due date
+        direction: ASC
+    columnSize: {}
+  - type: cards
+    name: Card
+    filters:
+      and:
+        - type == "action item"
+        - file.folder == "zOther/Action Items"
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - type
+      - date
+      - status
+      - file.ctime
+      - due date
+      - priority
+      - cover image
+      - days remaining
+      - days since created
+      - formula.Untitled
+      - file.folder
+    sort:
+      - property: due date
+        direction: ASC
+    cardSize: 240
