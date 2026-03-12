@@ -21,6 +21,8 @@ SORT file.day DESC
 `button-create-new-meeting`
 
 ## Notes
+![[Meetings Dashboard Meeting Notes.base]]
+
 ```dataview
 TABLE date AS "Date", meetingType AS "Kind", summary AS "Summary", projects AS "Projects", teams AS "Teams"
 FROM "01. General/Meetings"
@@ -30,6 +32,7 @@ LIMIT 5
 ```
 
 ## Action Items
+
 ```dataview
 TASK
 FROM "01. General/Meetings"

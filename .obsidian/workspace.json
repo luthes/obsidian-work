@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0a259f6b2042ba26",
+        "id": "ef79570473b27345",
         "type": "tabs",
         "children": [
           {
-            "id": "e9ce61874de5f203",
+            "id": "7e552f1eaa064c5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "99. Meta/Templates/Meetings/Meeting Template.md",
-                "mode": "source",
-                "source": false
+                "file": "zOther/Bases/Action Items.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Meeting Template"
+              "icon": "lucide-table",
+              "title": "Action Items"
             }
           }
         ]
@@ -216,43 +215,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e9ce61874de5f203",
+  "active": "7e552f1eaa064c5f",
   "lastOpenFiles": [
+    "Test Base Action Item.md",
+    "zOther/Bases/Action Items.base",
+    "zOther/Templates/Meeting Template.md",
+    "99. Meta/Templates/Meetings/Standup Template.md",
+    "Untitled 2.base",
+    "99. Meta/Templates/Meetings/Standup Action Item.md",
+    "01. General/Standups/Standup - 2026-03-11.md",
     "99. Meta/Templates/Meetings/Meeting Action Item Template.md",
     "99. Meta/Templates/Meetings/Action Item Template.md",
+    "zOther/Bases/Meetings Dashboard Meeting Notes.base",
+    "zOther/Bases/Meetings Dashboard Meeting Notes 1.base",
+    "zOther/Bases",
+    "00. Dashboards/Meetings Dashboard.md",
     "99. Meta/Templates/Meetings/Meeting Template.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "00. Dashboards",
     "01. General/Meetings/03.11.2026 - Agentic World.md",
     "01. General/Meetings/2026-03-11 - Some Adhoc Meeting.md",
     "99. Meta/Buttons/Meeting Buttons.md",
     "01. General/Meetings/03.10.26 - Work Assignments Sudeep.md",
     "01. General/Meetings/03.06.26 - Platform V2 Update.md",
     "01. General/Meetings/03.03.26 - Agentic Notes.md",
-    "01. General/Meetings Dashboard.md",
     "01. General/Meetings/01.01.01 - Meetings.md",
     "01. General/Meetings/Untitled.md",
-    "01. General/Standups/Standup - 2026-03-11.md",
     "02. Projects/Platform V2/Platform V2 Design.md",
     "02. Projects/Agentic AI",
     "02. Projects/Platform V2",
-    "02. Projects",
     "99. Meta/Requirements.md",
-    "somedirectory",
-    "01. General/Daily",
     "01. General/Meetings/2026-03-11 - Just a test meeting.md",
     "01. General/Meetings/2026-03-11 - TestMeeting1.md",
-    "99. Meta/Templates/Meetings/Standup Action Item.md",
     "01.General/Meetings/2026-03-11.md",
-    "01.General/Meetings",
-    "01.General",
     "01. General/Meetings/Standups/Standup - 2026-03-11.md",
-    "01. General/Meetings/Standups",
     "Meetings/Standups/Standup - 2026-03-11.md",
-    "Meetings/Standups",
-    "Meetings",
-    "99. Meta/Templates/Meetings/Standup Template.md",
-    "99. Meta/Templates/Meetings/Untitled 7.md",
-    "99. Meta/Templates/Meetings/Standup Update Template.md",
-    "99. Meta/Templates/Meetings/Planning Template.md",
-    "99. Meta/Templates/Meetings/Untitled 8.md"
+    "99. Meta/Templates/Meetings/Untitled 7.md"
   ]
 }

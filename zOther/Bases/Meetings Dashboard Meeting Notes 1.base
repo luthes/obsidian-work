@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - meetingType != "standup"
+        - type == "Meeting"
+        - file.folder == "01. General/Meetings"
+    order:
+      - file.name
+      - type
+      - date
+      - teams
+      - summary
+      - projects
+      - tags
+    limit: 5
+  - type: cards
+    name: View

@@ -1,0 +1,21 @@
+formulas:
+  days until due: ""
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - type == "action item"
+    order:
+      - file.name
+      - type
+      - date
+      - status
+      - file.ctime
+      - due date
+      - priority
+      - cover image
+      - days remaining
+      - days since created
+      - formula.Untitled

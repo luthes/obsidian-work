@@ -12,3 +12,5 @@ tags:
 
 ## Action Items
 `button-standup-action-item` 
+
+![[Action Items.base]]
