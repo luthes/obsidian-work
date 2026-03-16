@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 636.5
   },
   "right": {
     "id": "e51e85405a86cc70",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. General/02. Meetings/2026-03-16 - Platform V2.md",
+                "file": "01. General/04. Planning/2026-03-16 - Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-03-16 - Platform V2"
+              "title": "Backlinks for 2026-03-16 - Planning"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. General/02. Meetings/2026-03-16 - Platform V2.md",
+                "file": "01. General/04. Planning/2026-03-16 - Planning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-16 - Platform V2"
+              "title": "Outline of 2026-03-16 - Planning"
             }
           },
           {
@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 702.5
+    "width": 284.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,45 +208,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "dbd6160a964acbc8",
+  "active": "7bc4a73091c96227",
   "lastOpenFiles": [
-    "00. Dashboards/Meetings Dashboard.md",
-    "zOther/Action Items/Create Features for MCP Server (More than just two).md",
-    "zOther/Action Items/Create SLC Review Tickets for Tools.md",
-    "zOther/Action Items/Untitled 9.md",
-    "zOther/Action Items/Test Base Action Item.md",
-    "zOther/Action Items/this is just a test.md",
+    "Standups.base",
     "Standup Action Items.base",
     "01. General/Standups/Standup - 2026-03-16.md",
     "01. General/Standups",
-    "Standups.base",
-    "00. Dashboards/Meetings Dashboard 1.md",
-    "01. General/02. Meetings/03.03.26 - Agentic Notes.md",
-    "00. Dashboards/Untitled.md",
     "01. General/02. Meetings/2026-03-16 - Platform V2.md",
-    "01. General/02. Meetings/2026-03-11 - Some Adhoc Meeting.md",
-    "01. General/02. Meetings/03.11.2026 - Agentic World.md",
-    "01. General/02. Meetings/03.10.26 - Work Assignments Sudeep.md",
-    "01. General/02. Meetings/03.06.26 - Platform V2 Update.md",
-    "01. General/02. Meetings/03.06.26 - OpenClaw Review.md",
+    "00. Dashboards/Meetings Dashboard.md",
+    "01. General/02. Meetings/03.03.26 - Agentic Notes.md",
     "[[Action Items.base",
+    "01. General/02. Meetings/03.06.26 - OpenClaw Review.md",
+    "01. General/02. Meetings/03.06.26 - Platform V2 Update.md",
+    "01. General/02. Meetings/03.10.26 - Work Assignments Sudeep.md",
+    "01. General/02. Meetings/03.11.2026 - Agentic World.md",
+    "01. General/02. Meetings/2026-03-11 - Some Adhoc Meeting.md",
     "01. General/03. Standups/Standup - 2026-03-14.md",
     "01. General/03. Standups/Standup - 2026-03-11.md",
     "01. General/04. Planning/2026-03-16 - Planning.md",
     "01. General/04. Planning",
     "01. General/Meetings",
+    "00. Dashboards/Meetings Dashboard 1.md",
+    "00. Dashboards/Untitled.md",
     "zOther/Images/Screenshot 2026-03-05 at 09.14.42.png",
     "02. Projects/Platform V2/Platform V2 Design.md",
     "01. General/99. People/Steven.md",
     "99. Meta/Templates/Meetings/Meeting Template.md",
     "zOther/Action Items/Untitled 10.md",
+    "zOther/Action Items/this is just a test.md",
     "99. Meta/Buttons/Buttons.md",
     "99. Meta/Buttons/Meeting Buttons.md",
     "01. General/Meetings/Untitled.md",
+    "01. General/Meetings/Test meeting.md",
     "01. General/People/Steven.md.tmp.1992451.1773359669156",
     "01. General/People/Zach Schweinfurth.md.tmp.1992451.1773359661306",
     "01. General/People/Matt Olsen.md.tmp.1992451.1773359661303",
     "01. General/People/Megan Benton.md.tmp.1992451.1773359661292",
+    "01. General/People/Amit Sethi.md.tmp.1992451.1773359659583",
+    "99. Meta/Templates/People/People Template.md",
+    "zOther/Action Items/Untitled 9.md",
     "zOther/Images/Screenshot 2026-03-11 at 09.14.24.png",
     "zOther/Images/Screenshot 2026-03-05 at 10.31.54.png",
     "zOther/Images/Screenshot 2026-03-05 at 10.31.05.png",
