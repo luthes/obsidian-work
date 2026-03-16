@@ -9,7 +9,7 @@ tags:
 -
 
 ## Action Items
-> Filter the [[Action Items]] base by **assignee** to see items for this person.
+![[Action Items.base]]
 
 ## 1:1 Topics
 -

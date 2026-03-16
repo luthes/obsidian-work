@@ -1,10 +1,11 @@
 ---
 type: action item
-priority:
+assignee: Steven
+priority: 0
 status:
 due date:
 days remaining:
 days since created:
-origin: other
-Source: meeting
+origin:
+Source: standup
 ---

@@ -5,14 +5,19 @@ meetingType: general
 summary:
 teams:
 projects:
+attendees:
+  - "[[Steven]]"
 tags:
 ---
+## Preperation
+- [ ] Prepare for Meeting
+
+## Agenda & Files
+- Simple Presentation
+- Demo
 ## Notes
 * Note
 	* Some notes
 
 ## Action Items
 `button-meeting-action-item`
-
-## People
-`button-new-person`

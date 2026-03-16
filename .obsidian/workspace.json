@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bbedc9282a1dc49d",
+        "id": "ee70bd9e647a3ff8",
         "type": "tabs",
         "children": [
           {
-            "id": "31caea26ac17a844",
+            "id": "dbd6160a964acbc8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01. General/03. Standups/Standup - 2026-03-14.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Standup - 2026-03-14"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01. General/03. Standups/Standup - 2026-03-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Standup - 2026-03-14"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01. General/People/Steven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Steven"
             }
           },
           {
@@ -150,24 +156,49 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Dashboards/Meetings Dashboard.md",
+                "file": "01. General/03. Standups/Standup - 2026-03-14.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Meetings Dashboard"
+              "title": "Outline of Standup - 2026-03-14"
+            }
+          },
+          {
+            "id": "07e3d9963fe1a649",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "7bc4a73091c96227",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 702.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -177,48 +208,48 @@
       "bases:Create new base": false
     }
   },
-  "active": "864f6bc165ccc086",
+  "active": "dbd6160a964acbc8",
   "lastOpenFiles": [
-    "Work Vault",
-    "99. Meta/Templates/Standups",
-    "99. Meta/Templates/People/People Template.md",
-    "99. Meta/Templates/People",
+    "01. General/03. Standups/Standup - 2026-03-11.md",
+    "01. General/03. Standups/Standup - 2026-03-14.md",
+    "01. General/04. Planning/2026-03-16 - Planning.md",
+    "01. General/Meetings/2026-03-16 - Platform V2.md",
+    "01. General/04. Planning",
+    "00. Dashboards/Meetings Dashboard.md",
+    "01. General/Meetings",
+    "00. Dashboards/Meetings Dashboard 1.md",
+    "00. Dashboards/Untitled.md",
+    "zOther/Images/Screenshot 2026-03-05 at 09.14.42.png",
+    "02. Projects/Platform V2/Platform V2 Design.md",
+    "01. General/99. People/Steven.md",
+    "99. Meta/Templates/Meetings/Meeting Template.md",
+    "zOther/Action Items/Untitled 10.md",
+    "zOther/Action Items/this is just a test.md",
     "99. Meta/Buttons/Buttons.md",
-    "01. General/People/Zach Schweinfurth.md",
-    "01. General/People/Steven.md",
-    "01. General/People/Rahul Raj.md",
-    "01. General/People/Megan Benton.md",
-    "01. General/People/Matt Olsen.md",
-    "01. General/People/Kranthi Kumar K.md",
-    "01. General/People/Anurag Mishra.md",
-    "01. General/People/Amit Sethi.md",
-    "01. General/People/Abhishek Tiwari.md",
-    "01. General/People",
-    "01. General/Daily",
-    "zOther/Templates/Meeting Template.md",
+    "99. Meta/Buttons/Meeting Buttons.md",
+    "01. General/Meetings/Untitled.md",
+    "01. General/02. Meetings/03.03.26 - Agentic Notes.md",
+    "01. General/02. Meetings/03.06.26 - OpenClaw Review.md",
+    "01. General/02. Meetings/03.06.26 - Platform V2 Update.md",
+    "01. General/02. Meetings/03.10.26 - Work Assignments Sudeep.md",
+    "01. General/02. Meetings/03.11.2026 - Agentic World.md",
+    "01. General/02. Meetings/2026-03-11 - Some Adhoc Meeting.md",
+    "01. General/Meetings/Test meeting.md",
+    "01. General/People/Steven.md.tmp.1992451.1773359669156",
+    "01. General/People/Zach Schweinfurth.md.tmp.1992451.1773359661306",
+    "01. General/People/Matt Olsen.md.tmp.1992451.1773359661303",
+    "01. General/People/Megan Benton.md.tmp.1992451.1773359661292",
+    "01. General/People/Amit Sethi.md.tmp.1992451.1773359659583",
+    "99. Meta/Templates/People/People Template.md",
+    "zOther/Action Items/Untitled 9.md",
+    "[[Action Items.base",
+    "01. General/99. People/Rahul Raj.md",
+    "01. General/99. People/Megan Benton.md",
+    "01. General/People/Steven.md.tmp.1992451.1773296130258",
+    "zOther/Bases/Action Items.base",
     "zOther/Images/Screenshot 2026-03-11 at 09.14.24.png",
     "zOther/Images/Screenshot 2026-03-05 at 10.31.54.png",
     "zOther/Images/Screenshot 2026-03-05 at 10.31.05.png",
-    "zOther/Images/Screenshot 2026-03-05 at 10.30.02.png",
-    "zOther/Images/Screenshot 2026-03-05 at 09.14.42.png",
-    "zOther/Bases/Meetings.base",
-    "zOther/Bases/Action Items.base",
-    "zOther/Action Items/Untitled.md",
-    "zOther/Action Items/Untitled 8.md",
-    "zOther/Action Items/Untitled 7.md",
-    "zOther/Action Items/Untitled 6.md",
-    "zOther/Action Items/Untitled 5.md",
-    "zOther/Action Items/Untitled 4.md",
-    "zOther/Action Items/Untitled 3.md",
-    "zOther/Action Items/Untitled 2.md",
-    "zOther/Action Items/Untitled 1.md",
-    "zOther/Action Items/Test Base Action Item.md",
-    "zOther/Templates",
-    "zOther/Images",
-    "zOther/Bases",
-    "zOther/Action Items",
-    "test card.md",
-    "99. Meta/Templates/Meetings/Standup Update Template.md",
-    "99. Meta/Templates/Meetings/Standup Template.md"
+    "zOther/Images/Screenshot 2026-03-05 at 10.30.02.png"
   ]
 }

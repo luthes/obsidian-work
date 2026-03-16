@@ -5,6 +5,7 @@ status:
 due date:
 days remaining:
 days since created:
-origin: other
-Source: meeting
+origin:
+Source: standup
+assignee:
 ---

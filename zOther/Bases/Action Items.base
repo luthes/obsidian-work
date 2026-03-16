@@ -12,6 +12,7 @@ views:
         - type == "action item"
         - file.folder == "zOther/Action Items"
         - status != "done"
+        - Source == "meeting"
     order:
       - file.name
       - priority
@@ -26,11 +27,12 @@ views:
       - assignee
     sort:
       - property: priority
-        direction: ASC
+        direction: DESC
       - property: due date
         direction: DESC
     columnSize:
-      note.priority: 74
+      file.name: 180
+      note.priority: 76
   - type: cards
     name: Card
     filters:
@@ -57,3 +59,16 @@ views:
       - property: due date
         direction: ASC
     cardSize: 240
+  - type: table
+    name: Person View
+    filters:
+      and:
+        - assignee == "file.name"
+    order:
+      - file.name
+      - priority
+      - days remaining
+      - days since created
+      - due date
+      - description
+      - name
