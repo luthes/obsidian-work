@@ -4,8 +4,8 @@ views:
     filters:
       and:
         - meetingType != "standup"
-        - type == "Meeting"
-        - file.folder == "01. General/Meetings"
+        - type == "Standup"
+        - file.folder == "01. General/02. Meetings"
     order:
       - file.name
       - type
@@ -14,6 +14,8 @@ views:
       - projects
       - tags
       - summary
-    sort: []
+    sort:
+      - property: file.name
+        direction: ASC
     limit: 5
     columnSize: {}

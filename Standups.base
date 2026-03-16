@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - meetingType == "standup"
+        - file.inFolder("01. General/03. Standups")

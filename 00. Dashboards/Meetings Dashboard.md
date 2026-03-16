@@ -1,12 +1,12 @@
 # Standup
 ## Notes
 `button-create-new-standup`
-![[Meetings.base]]
+![[Standups.base]]
 ## Action Items
-![[Action Items.base]]
+![[Standup Action Items.base]]
 # Meetings
 `button-create-new-meeting`
 ## Notes
 ![[Meetings.base]]
 ## Action Items
-![[Action Items.base]]
+![[Meeting Action Items.base]]
