@@ -5,3 +5,11 @@ views:
       and:
         - meetingType == "standup"
         - file.inFolder("01. General/03. Standups")
+    order:
+      - file.name
+      - file.ctime
+      - summary
+      - projects
+    columnSize:
+      file.ctime: 95
+      note.summary: 179
