@@ -58,17 +58,16 @@ Very short. Only enough so everyone is anchored.
 **3. Review concerns one by one — 20–25 min**
 Create a table live if needed:
 
-| Concern                     | Why it matters | Needed in Phase 0? | If deferred, what risk do we accept? | Owner |
-| --------------------------- | -------------- | ------------------ | ------------------------------------ | ----- |
-| caching                     |                |                    |                                      |       |
-| tool aggregation            |                |                    |                                      |       |
-| registry behavior           |                |                    |                                      |       |
-| auth / role mapping         |                |                    |                                      |       |
-| latency / scale assumptions |                |                    |                                      |       |
-| failure handling            |                |                    |                                      |       |
+| Concern                     | Why it matters | Needed in Phase 0? | If deferred, what risk do we accept? |
+| --------------------------- | -------------- | ------------------ | ------------------------------------ |
+| caching                     |                |                    |                                      |
+| tool aggregation            |                |                    |                                      |
+| registry behavior           |                |                    |                                      |
+| auth / role mapping         |                |                    |                                      |
+| latency / scale assumptions |                |                    |                                      |
+| failure handling            |                |                    |                                      |
 **4. Explicitly separate must-have vs should-have — 10 min**
 Use language like:
-
 * required for first production path
 * useful but deferrable
 * future-state capability
@@ -76,14 +75,29 @@ Use language like:
 
 **5. End with decisions and next steps — 5–10 min**
 Capture:
-
 * what is in Phase 0
 * what is deferred to Phase 1+
 * what assumptions make Phase 0 viable
 * what spikes or follow-ups are needed
 ## Notes
-* Note
-	* Some notes
+* Zach is leading this meeting
+* High Level - What we're doing for Phase 0
+	* Docs are not all up to date, we're learning
+* If the Gateway handles many MCP servers, would that solve Shreya's issues of latency she was bringing up in standup?
+	* RCA use case --> No. We need multiple MCP Servers
+	* Do we want more endpoints? Or nah...
+* MCP Tool RBAC
+* 
+
+Questions:
+* Kethan - Entirely on MCP, we can offload to a skill so that we can reference, this guides the Orchestrator to point ot the MCP Server
+	* Does NRAI support these skills?
+
+
+Demo Items -> 
+* We're going to drive towards the demo for next Thursday with Gateway.
+
+Phase 0 : Deploy Gateway to MCP 
 
 ## Action Items
 `button-meeting-action-item`
