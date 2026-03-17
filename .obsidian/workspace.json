@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ebd0ed3a0921d7eb",
+        "id": "0250a6f24ba10a5c",
         "type": "tabs",
         "children": [
           {
-            "id": "73b7d76313d5e8df",
+            "id": "906e1cae70e052a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. General/02. Meetings/2026-03-16 - IST CDD review.md",
+                "file": "01. General/02. Meetings/03.03.26 - Agentic Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-16 - IST CDD review"
+              "title": "03.03.26 - Agentic Notes"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 304.5
   },
   "right": {
     "id": "e51e85405a86cc70",
@@ -87,7 +87,6 @@
       {
         "id": "23b623c0c1126e1f",
         "type": "tabs",
-        "dimension": 25,
         "children": [
           {
             "id": "3081c6eff7060292",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. General/04. Planning/2026-03-16 - Planning.md",
+                "file": "01. General/02. Meetings/2026-03-16 - Platform V2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-03-16 - Planning"
+              "title": "Backlinks for 2026-03-16 - Platform V2"
             }
           },
           {
@@ -120,6 +119,21 @@
               },
               "icon": "links-going-out",
               "title": "Outgoing links from Steven"
+            }
+          },
+          {
+            "id": "cb19607e981b1ed4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -142,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. General/04. Planning/2026-03-16 - Planning.md",
+                "file": "01. General/02. Meetings/2026-03-16 - Platform V2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-16 - Planning"
+              "title": "Outline of 2026-03-16 - Platform V2"
             }
           },
           {
@@ -159,29 +173,6 @@
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "55b07d52a2b799ff",
-        "type": "tabs",
-        "dimension": 75,
-        "children": [
-          {
-            "id": "cb19607e981b1ed4",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
             }
           },
           {
@@ -195,11 +186,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 251.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,45 +208,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "73b7d76313d5e8df",
+  "active": "906e1cae70e052a0",
   "lastOpenFiles": [
-    "01. General/02. Meetings/2026-03-16 - Platform V2.md",
-    "01. General/02. Meetings/2026-03-17 - MCP Gateway Design Meeting.md",
-    "01. General/02. Meetings/03.03.26 - Agentic Notes.md",
     "01. General/02. Meetings/03.06.26 - Platform V2 Update.md",
     "01. General/02. Meetings/03.10.26 - Work Assignments Sudeep.md",
     "01. General/02. Meetings/03.11.2026 - Agentic World.md",
     "01. General/02. Meetings/2026-03-16 - Architecture Team Meeting.md",
     "01. General/02. Meetings/2026-03-16 - IST CDD review.md",
+    "01. General/02. Meetings/2026-03-16 - Platform V2.md",
+    "01. General/02. Meetings/2026-03-17 - MCP Gateway Design Meeting.md",
+    "01. General/02. Meetings/03.03.26 - Agentic Notes.md",
     "00. Dashboards/Meetings Dashboard.md",
-    "01. General/Meetings/2026-03-16 - Initial CDD Review with India team.md",
-    "01. General/02. Meetings/Untitled.md",
-    "99. Meta/Templates/Meetings/Meeting Template.md",
-    "01. General/04. Planning/2026-03-16 - Planning.md",
-    "zOther/Images/Screenshot 2026-03-16 at 10.08.22.png",
-    "zOther/Images/Screenshot 2026-03-16 at 10.06.27.png",
-    "zOther/Bases/Standup Action Items.base",
-    "zOther/Bases/Meetings Action Items.base",
-    "zOther/Action Items/Talk with IT about Okta for MCP Server.md",
-    "zOther/Action Items/Speak with NRAI Team to make sure our MCP server connect.md",
-    "zOther/Action Items/Meet with Kethan and Shreya on what they're working on.md",
-    "zOther/Action Items/Kick off Meeting with everyone - Review CDD, get sign off.md",
-    "02. Projects/Agentic AI/Untitled.md",
-    "02. Projects/Agentic AI",
-    "01. General/03. Standups/Standup - 2026-03-16.md",
+    "zOther/Bases/Standups.base",
     "01. General/01. Daily/2026-03-16.md",
-    "Standups.base",
-    "Standup Action Items.base",
-    "01. General/Standups/Standup - 2026-03-16.md",
-    "01. General/Standups",
-    "[[Action Items.base",
+    "99. Meta/Buttons/Buttons.md",
+    "99. Meta/Buttons/Meeting Buttons.md",
+    "01. General/01. Daily",
+    "01. General/04. Planning/2026-03-16 - Planning.md",
+    "01. General/03. Standups/Standup - 2026-03-11.md",
+    "01. General/03. Standups/Standup - 2026-03-14.md",
+    "01. General/03. Standups/Standup - 2026-03-16.md",
+    "01. General/02. Meetings/2026-03-16.md",
     "01. General/02. Meetings/03.06.26 - OpenClaw Review.md",
     "01. General/02. Meetings/2026-03-11 - Some Adhoc Meeting.md",
-    "01. General/03. Standups/Standup - 2026-03-14.md",
-    "01. General/03. Standups/Standup - 2026-03-11.md",
-    "01. General/04. Planning",
+    "zOther/Action Items/Speak with NRAI Team to make sure our MCP server connect.md",
     "01. General/Meetings",
-    "00. Dashboards/Meetings Dashboard 1.md",
+    "02. Projects/Platform V2/Platform V2 Design.md",
+    "02. Projects/Agentic AI/Untitled.md",
+    "zOther/Action Items/Untitled.md",
+    "99. Meta/Templates/Meetings/Action Item Template.md",
+    "zOther/Action Items/Create Features for MCP Server (More than just two).md",
+    "99. Meta/Templates/Meetings/Meeting Template.md",
+    "zOther/Bases/Meetings Action Items.base",
+    "zOther/Bases/Standup Action Items.base",
+    "zOther/Bases/Meeting Action Items.base",
+    "zOther/Images/Screenshot 2026-03-16 at 10.08.22.png",
+    "Screenshot 2026-03-16 at 10.12.46.png",
+    "zOther/Images/Screenshot 2026-03-16 at 10.06.27.png",
+    "01. General/Standups",
+    "[[Action Items.base",
+    "01. General/04. Planning",
     "zOther/Images/Screenshot 2026-03-05 at 09.14.42.png",
     "01. General/People/Steven.md.tmp.1992451.1773359669156",
     "zOther/Images/Screenshot 2026-03-11 at 09.14.24.png",
