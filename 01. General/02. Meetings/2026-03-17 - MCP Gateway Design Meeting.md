@@ -24,7 +24,6 @@ tags:
   **Audit + Dispatch (FastMCP layer)**
   - Log `request_id`, `principal`, `tool` for every call
   - Route `tool_name` to the correct handler
-  
 
   **Aggregation does not belong in the gateway.** In a traditional API gateway,
   aggregation exists because the client needs composed data in a single call. In
@@ -48,7 +47,40 @@ tags:
     to cache, but not a priority at this stage
   - **Connection pooling** — valid concern but belongs at the Domain Tool Services
     layer (L6), not the gateway
+### Agenda
 
+**1. Frame the purpose — 5 min**
+“Today’s goal is to review the concerns, decide what is truly required for MVP/Phase 0, and document what we are intentionally deferring.”
+
+**2. Recap the proposed design — 5–10 min**
+Very short. Only enough so everyone is anchored.
+
+**3. Review concerns one by one — 20–25 min**
+Create a table live if needed:
+
+| Concern                     | Why it matters | Needed in Phase 0? | If deferred, what risk do we accept? | Owner |
+| --------------------------- | -------------- | ------------------ | ------------------------------------ | ----- |
+| caching                     |                |                    |                                      |       |
+| tool aggregation            |                |                    |                                      |       |
+| registry behavior           |                |                    |                                      |       |
+| auth / role mapping         |                |                    |                                      |       |
+| latency / scale assumptions |                |                    |                                      |       |
+| failure handling            |                |                    |                                      |       |
+**4. Explicitly separate must-have vs should-have — 10 min**
+Use language like:
+
+* required for first production path
+* useful but deferrable
+* future-state capability
+* not needed unless assumption changes
+
+**5. End with decisions and next steps — 5–10 min**
+Capture:
+
+* what is in Phase 0
+* what is deferred to Phase 1+
+* what assumptions make Phase 0 viable
+* what spikes or follow-ups are needed
 ## Notes
 * Note
 	* Some notes
