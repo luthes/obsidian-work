@@ -17,8 +17,6 @@ views:
     sort:
       - property: file.ctime
         direction: DESC
-      - property: projects
-        direction: ASC
     limit: 5
     columnSize:
-      file.ctime: 163
+      file.ctime: 148

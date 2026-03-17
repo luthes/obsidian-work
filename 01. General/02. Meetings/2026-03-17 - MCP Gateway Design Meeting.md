@@ -15,9 +15,7 @@ tags:
 - [ ] Prepare for Meeting
 
 ## Agenda & Files
-  
-  The gateway should be lightweight — two concerns only:
-  
+
   **AuthN + AuthZ (FastAPI layer)**
   - Validate the incoming token and confirm the principal's identity
   - Extract principal context (`principal_id`, `principal_type`, roles)
