@@ -24,6 +24,7 @@ tags:
   **Audit + Dispatch (FastMCP layer)**
   - Log `request_id`, `principal`, `tool` for every call
   - Route `tool_name` to the correct handler
+  
 
   **Aggregation does not belong in the gateway.** In a traditional API gateway,
   aggregation exists because the client needs composed data in a single call. In
