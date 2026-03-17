@@ -1,0 +1,33 @@
+properties:
+  note.status:
+    displayName: status
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("zOther/Action Items")
+    order:
+      - file.name
+      - status
+      - due date
+      - source
+      - notes
+    sort:
+      - property: source
+        direction: ASC
+    limit: 5
+    columnSize:
+      file.name: 316
+      note.status: 88
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.inFolder("zOther/Action Items")
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+    cardSize: 230

@@ -4,18 +4,21 @@ views:
     filters:
       and:
         - meetingType != "standup"
-        - type == "Standup"
+        - type == "Meeting"
         - file.folder == "01. General/02. Meetings"
     order:
       - file.name
       - type
-      - date
+      - file.ctime
       - teams
       - projects
       - tags
       - summary
     sort:
-      - property: file.name
+      - property: file.ctime
+        direction: DESC
+      - property: projects
         direction: ASC
     limit: 5
-    columnSize: {}
+    columnSize:
+      file.ctime: 163

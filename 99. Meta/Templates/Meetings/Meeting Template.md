@@ -21,3 +21,5 @@ tags:
 
 ## Action Items
 `button-meeting-action-item`
+
+![[Meetings Action Items.base]]
