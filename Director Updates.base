@@ -1,0 +1,38 @@
+views:
+  - type: table
+    name: All Updates
+    filters:
+      and:
+        - type == "director-update"
+    order:
+      - file.name
+      - date
+      - updateType
+      - sprint
+      - sprintWeek
+      - status
+      - summary
+    columnSize:
+      date: 110
+      updateType: 90
+      sprint: 140
+      sprintWeek: 80
+      status: 80
+      summary: 280
+  - type: table
+    name: Needs Review
+    filters:
+      and:
+        - type == "director-update"
+        - status == "draft"
+    order:
+      - file.name
+      - date
+      - updateType
+      - sprint
+      - summary
+    columnSize:
+      date: 110
+      updateType: 90
+      sprint: 140
+      summary: 320

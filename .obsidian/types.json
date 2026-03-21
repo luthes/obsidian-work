@@ -31,6 +31,9 @@
     "projects": "multitext",
     "summary": "text",
     "teams": "multitext",
-    "status": "multitext"
+    "status": "multitext",
+    "updateType": "text",
+    "sprint": "text",
+    "sprintWeek": "number"
   }
 }
