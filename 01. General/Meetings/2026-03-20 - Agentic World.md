@@ -20,8 +20,6 @@ tags:
 * We will have a long sync next week with Megan and team
 * Agents in Production gives us a leg up right now
 
-
-
 Questions;
 * Do we have a list of use cases right now? Amit wants this by next week, and Matt wants it finalized before we give it to Amit
 * Partha: Would no one use mean?
@@ -31,8 +29,6 @@ Questions;
 	* Don't try to force things to AI
 * Agent Portal
 	* This is in Data Portal, and will be released on Monday. I don't really know what this is.
-
-
 
 ![[Meetings Action Items.base]]
 
