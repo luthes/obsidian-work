@@ -29,7 +29,7 @@ color purple
 
 ```button
 name Create New Standup  
-type note(01. General/Standups/Standup - <% tp.date.now("YYYY-MM-DD") %>, split) template  
+type note(01. General/03. Standups/Standup - <% tp.date.now("YYYY-MM-DD") %>, split) template  
 action Meetings/Standup Template  
 templater true  
 color green
@@ -38,7 +38,7 @@ color green
 
 ```button
 name Create New Meeting  
-type note(01. General/Meetings/<% tp.date.now("YYYY-MM-DD") %>, split) template  
+type note(01. General/02. Meetings/<% tp.date.now("YYYY-MM-DD") %>, split) template  
 action Meetings/Meeting Template  
 templater true  
 color green

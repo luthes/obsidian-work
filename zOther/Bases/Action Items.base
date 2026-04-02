@@ -32,7 +32,9 @@ views:
         direction: DESC
     columnSize:
       file.name: 180
-      note.priority: 76
+      note.priority: 82
+      note.status: 209
+      file.ctime: 284
   - type: cards
     name: Card
     filters:
