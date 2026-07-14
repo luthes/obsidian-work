@@ -1,0 +1,1 @@
+API Error: 503 {"error":{"message":"Exception raised when calling Openai: Streaming is required for operations that may take longer than 10 minutes. See https://github.com/anthropics/anthropic-sdk-python#long-requests for more details, please try again","code":503,"type":"","param":null}}

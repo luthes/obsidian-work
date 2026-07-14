@@ -3,5 +3,6 @@
   "foldHeading": true,
   "vimMode": true,
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "openBehavior": "file:00. Dashboards/Meetings Dashboard"
 }
